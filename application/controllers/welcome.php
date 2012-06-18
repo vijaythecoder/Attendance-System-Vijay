@@ -24,6 +24,7 @@ class Welcome extends CI_Controller {
 	public function start()
 	{
 		  $this->load->helper('form');
+		  echo "vj";
 	}
 }
 
